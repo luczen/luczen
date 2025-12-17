@@ -1,19 +1,17 @@
 
-# Portfolio – Lucas ZENA
+
+# Portfolio – Lucas Zena
 Administrateur Systèmes & Réseaux | Orientation Cybersécurité
 
 ## Projets professionnels
-- **Supervision réseau** Wazuh/Zabbix → /PROJETS/projet-supervision
-- ** outil de gestion de logiciels ** SCCM → /PROJETS/projet-SCCM
-- ** outil de deploiement Windows ** MDT → /PROJETS/projet-SCCM
-## Labs & veille
-- Wireshark (captures & analyses) → /LABS/wireshark-captures
-- Nmap (scans commentés) → [/LABS/nmap-scan-exemples](LABS/nmap-scan-exemkali-notes.md
-- Creation d'une infra virtualisé sécurisé -> /LABS/infra
-- Mise en place de bastion (Guacamole)
-- Mise en place de GPO
+- Supervision réseau **Wazuh/Zabbix** → /PROJETS/projet-supervision
+- **SCCM** (outil de gestion de logiciels) → /PROJETS/projet-SCCM
+- **MDT** (outil de déploiement Windows) → /PROJETS/projet-MDT
 
-## Contact
-- Email : luc.zen41@gmail.com
--
-
+## Laboratoires & veille
+- **Wireshark** (captures & analyses) → /LABS/wireshark-captures
+- **Nmap** (scans commentés) → /LABS/nmap-scan-exemples
+- **Infra virtualisée sécurisée** → /LABS/infra
+- **Bastion (Apache Guacamole)** → /LABS/bastion-guacamole
+- **GPO** (durcissement / politiques) → /LABS/gpo
+- **Notes Kali** → [/LABS/kali-not
